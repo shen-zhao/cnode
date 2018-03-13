@@ -1,0 +1,37 @@
+{
+  "name": "cnode",
+  "version": "1.0.0",
+  "description": "node中文社区贴",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shen-zhao/cnode.git"
+  },
+  "keywords": [
+    "js",
+    "node",
+    "vue",
+    "react",
+    "angular",
+    "html",
+    "css",
+    "面试"
+  ],
+  "author": "shen-zhao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shen-zhao/cnode/issues"
+  },
+  "homepage": "https://github.com/shen-zhao/cnode#readme",
+  "dependencies": {
+    "art-template": "^4.12.2",
+    "async": "^2.6.0",
+    "cheerio": "^1.0.0-rc.2",
+    "express": "^4.16.3",
+    "superagent": "^3.8.2",
+    "text": "github:requirejs/text"
+  }
+}
